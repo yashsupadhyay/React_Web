@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.card-1 img{
+    width: 50vh;
+    height: 50vh;
+    
+    
+}
+
+
+
+.card-2 img{
+    width: 50vh;
+    height: 50vh;
+    
+}
+
+.card-3 img{
+    width: 50vh;
+    height: 50vh;
+    
+}
+.cards-all{
+    display: flex;
+    text-align: center;
+    margin-top: 20vh; 
+}
+
+
+
+
